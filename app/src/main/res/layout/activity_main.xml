@@ -15,20 +15,6 @@
             android:layout_height="72dp"
             android:layout_margin="24dp"
             app:srcCompat="@android:drawable/ic_menu_camera"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"/>
-
-    <ImageButton
-            android:id="@+id/imgbtn_check"
-            android:layout_gravity="bottom|right"
-            android:layout_width="75dp" android:layout_height="75dp"
-            android:src="@android:drawable/checkbox_on_background"/>
-
-    <ImageButton
-            android:id="@+id/imgbtn_wrong"
-            android:layout_gravity="bottom|left"
-            android:layout_width="75dp" android:layout_height="75dp"
-            android:src="@android:drawable/ic_delete"/>
+            android:layout_gravity="bottom|center"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
