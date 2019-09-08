@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a98c75f2-00cb-4838-a887-349eb124e75f" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_thumb_down_blue_48dp.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_thumb_up_blue_48dp.xml" afterDir="false" />
@@ -21,6 +22,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+=======
+>>>>>>> 5fd4bdbf061686627932ae4664b800439cce9997
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
@@ -58,6 +61,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="173">
               <caret line="52" column="59" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="59" />
             </state>
@@ -70,6 +74,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" selection-start-line="7" selection-end-line="25" selection-end-column="61" />
+=======
+            <state relative-caret-position="180">
+              <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+>>>>>>> 5fd4bdbf061686627932ae4664b800439cce9997
             </state>
           </provider>
         </entry>
@@ -77,8 +85,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/thornton/weightguesser/views/MainActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="188">
               <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+=======
+            <state relative-caret-position="375">
+              <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+>>>>>>> 5fd4bdbf061686627932ae4664b800439cce9997
             </state>
           </provider>
         </entry>
@@ -109,7 +122,10 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/content_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/thornton/weightguesser/views/MainActivity.kt" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_secondary.xml" />
+=======
+>>>>>>> 5fd4bdbf061686627932ae4664b800439cce9997
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
@@ -298,7 +314,11 @@
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2714055" />
+=======
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.18578352" />
+>>>>>>> 5fd4bdbf061686627932ae4664b800439cce9997
       <window_info id="Structure" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
@@ -314,7 +334,11 @@
       <window_info anchor="bottom" id="Flutter Performance" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Build" order="8" visible="true" weight="0.32884902" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32884902" />
+=======
+      <window_info anchor="bottom" auto_hide="true" id="Terminal" order="9" weight="0.3064275" />
+>>>>>>> 5fd4bdbf061686627932ae4664b800439cce9997
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -335,6 +359,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/thornton/weightguesser/util/CameraHelper.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -354,14 +379,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" selection-start-line="7" selection-end-line="25" selection-end-column="61" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/thornton/weightguesser/views/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+>>>>>>> 5fd4bdbf061686627932ae4664b800439cce9997
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="173">
           <caret line="52" column="59" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="59" />
+=======
+        <state relative-caret-position="180">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+>>>>>>> 5fd4bdbf061686627932ae4664b800439cce9997
         </state>
       </provider>
     </entry>
