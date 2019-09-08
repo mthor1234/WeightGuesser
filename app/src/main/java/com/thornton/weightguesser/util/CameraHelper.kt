@@ -27,8 +27,8 @@ class CameraHelper(val lifeCycleOwner: LifecycleOwner ,var viewFinder: TextureVi
 
         // Create configuration object for the viewfinder use case
         val previewConfig = PreviewConfig.Builder().apply {
-            setTargetAspectRatio(Rational(1, 1))
-            setTargetResolution(Size(640, 640))
+//            setTargetAspectRatio(Rational(3, 5))
+//            setTargetResolution(Size(640, 640))
         }.build()
 
         // Build the viewfinder use case
